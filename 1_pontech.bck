@@ -67,13 +67,13 @@ F ~
 $ENDCMP
 #
 $CMP PLP-000068
-D 0.1UF 25V 10% X7R 0603
+D 0.1UF 25V 10% X7R 0603 Capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
 $CMP PLP-000088
-D 3.3UF 50V 20% X5R 1210
+D 3.3UF 50V 20% X5R 1210 Capacitor
 K cap capacitor
 F ~
 $ENDCMP
@@ -85,43 +85,55 @@ F ~
 $ENDCMP
 #
 $CMP PLP-000095
-D 47K 0.1W 1% Resistor
+D 5.1K 0.1W 1% 0603 Resistor
 K R res resistor
 F ~
 $ENDCMP
 #
+$CMP PLP-000130
+D 27PF 50V C0G 5% 0603 Capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP PLP-000310
-D Polarized capacitor, 68UF 50V
+D 68UF 50V Capacitor, Polarized
 K cap capacitor
 F ~
 $ENDCMP
 #
 $CMP PLP-000409
-D 10UF 6.3V 20% X5R 0603
+D 10UF 6.3V 20% X5R 0603 Capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
 $CMP PLP-000697
-D 470PF 50V 5% C0G 0603
+D 470PF 50V 5% C0G 0603 Capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP PLP-000703
+D Four pin crystal, GND on pins 2 and 4, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
 $CMP PLP-000705
-D Diode SCHOTTKY 40V 3A
+D 40V 3A, Diode, SCHOTTKY
 K diode
 F ~
 $ENDCMP
 #
 $CMP PLP-000740
-D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+D 01x06 Connector
 K connector
 F ~
 $ENDCMP
 #
 $CMP PLP-000775
-D LED RA GREEN 2V 20mA 0603
+D GREEN 2V 20mA 0603 LED RA
 $ENDCMP
 #
 $CMP PLP-000801
@@ -131,9 +143,15 @@ F http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF
 $ENDCMP
 #
 $CMP PLP-000835
-D Inductor
+D 150UH 0.46A SMD Inductor
 K POWER INDUCTOR 150UH 0.46A SMD
 F ~
+$ENDCMP
+#
+$CMP PLP-000883
+D Regulator, Fixed Output 3.3V 0.95A, SOT-223
+K REGULATOR LDO 3.3V
+F http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf
 $ENDCMP
 #
 $CMP PLP-000898
@@ -169,7 +187,7 @@ F ~
 $ENDCMP
 #
 $CMP PLP-001122
-D Dual LED, common anode on pin 2
+D 2.0VR 3.3VG 20mA LED RA
 K LED diode bicolor dual
 F ~
 $ENDCMP
@@ -186,8 +204,12 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP PLP-001129
+D Test Point Digikey P/N: 36-5015TR-ND (Keystone 5015)
+$ENDCMP
+#
 $CMP PLP-775
-D LED RA GREEN 2V 20mA 0603
+D GREEN 2V 20mA 0603 LED RA
 $ENDCMP
 #
 $CMP PLPA-0105
