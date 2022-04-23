@@ -108,6 +108,12 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP PLP-000201
+D IR RCVR MODULE 40 KHZ CNTR FREQ
+K REGULATOR LDO 3.3V
+F http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf
+$ENDCMP
+#
 $CMP PLP-000270
 D 2K 0.1W 1% 0603 Resistor
 K R res resistor
