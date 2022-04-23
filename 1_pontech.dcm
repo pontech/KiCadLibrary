@@ -54,6 +54,12 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP PLP-000029
+D 100K 0.1W 1% 0603 Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP PLP-000031
 D 200 0.1W 1% 0603 Resistor
 K R res resistor
