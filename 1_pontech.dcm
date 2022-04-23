@@ -102,6 +102,12 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP PLP-000270
+D 2K 0.1W 1% 0603 Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP PLP-000310
 D 68UF 50V Capacitor, Polarized
 K cap capacitor
