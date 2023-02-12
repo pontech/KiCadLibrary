@@ -6,7 +6,7 @@
   (property "Sheetfile" "RP2040.kicad_sch")
   (property "Sheetname" "RP2040")
   (attr through_hole)
-  (fp_text reference "J" (at -0.2032 -1.1684) (layer "F.SilkS")
+  (fp_text reference "J*" (at -0.2032 -1.1684) (layer "F.SilkS")
     (effects (font (size 0.7 0.7) (thickness 0.07)))
     (tstamp 65ae495d-1cda-475e-bd63-818416c62b36)
   )

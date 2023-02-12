@@ -6,7 +6,7 @@
   (property "Sheetfile" "Power.kicad_sch")
   (property "Sheetname" "Power")
   (attr smd)
-  (fp_text reference "U" (at -0.762 -4.064) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -0.762 -4.064) (layer "F.SilkS")
     (effects (font (size 0.7 0.7) (thickness 0.07)))
     (tstamp 8e294dec-8c48-4f1b-9e5c-8277aa4cc04c)
   )
