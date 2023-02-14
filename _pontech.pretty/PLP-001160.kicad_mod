@@ -15,10 +15,6 @@
     (effects (font (size 0.1 0.1) (thickness 0.01)))
     (tstamp 87766d28-85c2-4b73-b9e9-1abae5acfbf9)
   )
-  (fp_text user "IC REG BCK BST 3.3V 800MA 10WDFN" (at 0 1.4224) (layer "F.Fab")
-    (effects (font (size 0.1 0.1) (thickness 0.01)))
-    (tstamp c583aa21-af05-4b19-b47f-a2d54180199f)
-  )
   (fp_poly (pts
       (xy -0.38116 -0.63)
       (xy 0.38 -0.63)
