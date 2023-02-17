@@ -4,7 +4,7 @@
   (descr "5-pin SOT23 package")
   (tags "SOT-23-5")
   (attr smd)
-  (fp_text reference "REF**" (at -0.15 -2.25) (layer "F.SilkS")
+  (fp_text reference "U" (at -0.15 -2.25) (layer "F.SilkS")
     (effects (font (size 0.7 0.7) (thickness 0.07)))
     (tstamp e5154ee0-0871-4055-bd32-fc9da8fde57e)
   )
