@@ -12,7 +12,7 @@
   (property "MOUSER_PRICE-STOCK" "")
   (property "Sheetfile" "RP2040.kicad_sch")
   (property "Sheetname" "RP2040")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "U" (at 0 -1.7272) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.07)))
     (tstamp 5004db28-38c1-4365-99d2-5a1ec88901e3)

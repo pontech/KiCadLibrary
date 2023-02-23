@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "LED 0402 SMD ")
   (tags "LED 0402 DIODE")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -0.762) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.07)) (justify bottom))
     (tstamp c0ee72db-5195-43ad-9d76-1c7795af28bd)

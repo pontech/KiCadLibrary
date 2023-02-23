@@ -4,7 +4,7 @@
   (tags "Raspberry Pi 2040")
   (property "Sheetfile" "RP2040.kicad_sch")
   (property "Sheetname" "RP2040")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "U" (at -4.1148 -2.4384 90) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.07)))
     (tstamp fd546f59-979e-45ef-a8a1-194a0c4a3d58)
