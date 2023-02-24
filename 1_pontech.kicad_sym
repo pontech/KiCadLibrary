@@ -2413,6 +2413,159 @@
       )
     )
   )
+  (symbol "PLP-001078" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (at 3.81 -2.54 90)
+      (effects (font (size 1.4986 1.4986)) (justify left bottom))
+    )
+    (property "Value" "PLP-001078" (at 2.54 -3.81 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "a_pontech:PLP-001078" (at 2.54 -8.89 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Datasheet" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Info" "GREEN 2V2 20mA" (at 2.54 -6.35 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "ki_keywords" "LED GREEN" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "GREEN 2V2 20mA 0603 LED" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "PLP-001078_1_0"
+      (polyline
+        (pts
+          (xy -3.429 -2.159)
+          (xy -2.54 -1.778)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.302 -3.302)
+          (xy -2.413 -2.921)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.048 -1.27)
+          (xy -3.429 -2.159)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.921 -2.413)
+          (xy -3.302 -3.302)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -1.778)
+          (xy -3.048 -1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.413 -2.921)
+          (xy -2.921 -2.413)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.032 -0.762)
+          (xy -3.429 -2.159)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.905 -1.905)
+          (xy -3.302 -3.302)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy -1.27 -2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy -1.27 0)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 -2.54)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 0 2.54 270) (length 2.54)
+        (name "A" (effects (font (size 0 0))))
+        (number "A" (effects (font (size 0 0))))
+      )
+      (pin passive line (at 0 -5.08 90) (length 2.54)
+        (name "C" (effects (font (size 0 0))))
+        (number "C" (effects (font (size 0 0))))
+      )
+    )
+  )
   (symbol "PLP-001119" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -13.97 -10.16 0)
       (effects (font (size 1.0668 1.0668)) (justify left bottom))
