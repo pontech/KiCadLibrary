@@ -1544,7 +1544,7 @@
     (property "Reference" "R" (at 2.54 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "PLP-000329" (at 2.54 0 0)
+    (property "Value" "PLP-000327" (at 2.54 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "a_pontech:R_0402_1005Metric" (at 2.54 5.08 0)
