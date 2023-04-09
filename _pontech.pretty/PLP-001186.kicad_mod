@@ -3,7 +3,7 @@
   (descr "Shielded Power Inductor SMD 3x3x1mm, Coilcraft LPS3015")
   (tags "inductor low profile")
   (attr smd)
-  (fp_text reference "L" (at 0 -2.5) (layer "F.SilkS")
+  (fp_text reference "**REF" (at 0 -2.5) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.07)))
     (tstamp 1e484cf0-7672-48d0-bce3-2c31e87a0213)
   )
