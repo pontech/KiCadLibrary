@@ -1,6 +1,6 @@
 (footprint "VisoLite20mmX7mm_Art" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "VisoLite20mmX7mm_Art")
+  (descr "ARTWORK VisoLite 20x7mm")
   (tags "VisioLite Art")
   (property "Sheetfile" "X-Pack_Scene_Controller.kicad_sch")
   (property "Sheetname" "")
