@@ -2191,7 +2191,7 @@
     (property "Value" "PLP-000705" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "a_pontech:D_SMA" (at 0 -7.62 0)
+    (property "Footprint" "a_pontech:PLP-000705" (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 0 0)

@@ -1708,4 +1708,6 @@
     )
 
     (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2cde180f-1281-40a9-aefe-0acb8097f715))
+  (fp_rect (start -5.4 -6.5) (end 5.4 6.5)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 38a2797b-c009-4b99-b232-beb621816824))
 )
