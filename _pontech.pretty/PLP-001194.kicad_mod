@@ -34,4 +34,9 @@
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 9a0d57ff-30aa-41e2-8428-8bc82109e235))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 1e6f13d2-2323-4edf-89fa-f3600e63662c))
   (pad "2" thru_hole circle (at -3.5 -5) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 1e6f13d2-2323-4edf-89fa-f3600e63662c))
+  (model "${KICAD_PONTECH_3DMOD}/PLP-001194-1985195.stp"
+    (offset (xyz -5.2578 -4.6736 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

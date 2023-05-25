@@ -42,4 +42,9 @@
   (pad "8" thru_hole circle (at -24.5 -5) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 5df5a2f4-8e16-4086-9104-a587386c04ad))
   (pad "9" thru_hole circle (at -28 0) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 1da050f7-6c80-43cd-bae5-7f3bcd15702b))
   (pad "10" thru_hole circle (at -31.5 -5) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 2636ebb9-d4bc-406c-a146-25ac8c3e0eb2))
+  (model "${KICAD_PONTECH_3DMOD}/PLP-001195-1985276.stp"
+    (offset (xyz -33.02 -4.5085 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
