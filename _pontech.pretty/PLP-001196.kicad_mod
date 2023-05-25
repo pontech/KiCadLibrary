@@ -139,8 +139,8 @@
       )
     )
   )
-  (model "RASPBERRY_PI_PICO_W.stp"
-    (offset (xyz 0 0 0))
+  (model ":KICAD_PONTECH_3DMOD:PLP-001196-PicoW.stp"
+    (offset (xyz -10.5 -25.5 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
