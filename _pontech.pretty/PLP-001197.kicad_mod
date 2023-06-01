@@ -43,4 +43,9 @@
   (pad "2" smd roundrect (at -2.675 1.25) (size 2.15 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp 1e58a1a3-6ae2-45e8-8806-72875710d44e))
   (pad "3" smd roundrect (at 2.675 1.25) (size 2.15 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp fad380d6-e22f-490f-a04a-d8ed4f030b83))
   (pad "4" smd roundrect (at 2.675 -1.25) (size 2.15 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp 0c0d6904-a69e-481b-87db-8a8f4926d1a3))
+  (model "${KICAD_PONTECH_3DMOD}/PLPB-01197-MB10S-13.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )

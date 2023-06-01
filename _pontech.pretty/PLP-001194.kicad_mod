@@ -2,6 +2,7 @@
   (layer "F.Cu")
   (descr "TERM BLOCK 2POS 45DEG 3.5x5.0mm")
   (tags "CONNECTOR, 2POS, TERM BLOCK")
+  (attr through_hole)
   (fp_text reference "REF**" (at 3.8 2.6) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.07)))
     (tstamp 3ef82717-aa59-4305-a29e-2dfe37bd03de)
