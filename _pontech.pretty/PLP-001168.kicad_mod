@@ -52,9 +52,9 @@
   (pad "2" smd rect (at 0.875 0.7) (size 1.15 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3c11f059-a9a2-42a7-a4a2-982d520b8f47))
   (pad "3" smd rect (at 0.875 -0.7) (size 1.15 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 93912be6-fab5-463c-a802-bb3f2d505c42))
   (pad "4" smd rect (at -0.875 -0.7) (size 1.15 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2bc986d3-2a69-4bb4-9dcb-93b368211574))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2520-4Pin_2.5x2.0mm.wrl"
+  (model "${KICAD_PONTECH_3DMOD}/PLP-001168-ABM81-27.120MHz-10-B1U-T3.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 90))
   )
 )

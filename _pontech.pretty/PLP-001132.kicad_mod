@@ -677,7 +677,7 @@
   (pad "55" smd rect (at -2.2352 -3.4012) (size 0.1786 0.807999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1ef2024f-f6de-4c03-989e-e53e7d8658e2))
   (pad "56" smd rect (at -2.6416 -3.4012) (size 0.1786 0.807999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e14d0d6c-755f-43a0-8323-c174afc9fde3))
   (pad "57" smd rect (at 0 0) (size 3.2004 3.2004) (layers "F.Cu" "F.Mask") (tstamp d9e0f251-7b46-40d2-9ac1-029f81f7ff72))
-  (model "G:/Other computers/My Laptop/D/Oya/PCB/libraries/ul_SC0908-7-/IC57_RP2040.step"
+  (model "${KICAD_PONTECH_3DMOD}/PLP-001132-QFN56_7X7_RPI.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
