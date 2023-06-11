@@ -58,7 +58,7 @@
   (pad "7" smd rect (at 1.4 -0.25) (size 0.9 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a52efd7a-f176-4804-970f-3bac9266f24b))
   (pad "8" smd rect (at 1.4 -0.75) (size 0.9 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f609cac-8457-4614-befb-68eabfbf1c84))
   (pad "9" smd rect (at 0 0 90) (size 1.65 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8cd2108e-1ad5-4e0c-bd11-d3e82158717e))
-  (model "G:/Other computers/My Laptop/D/Oya/PCB/libraries/W25Q16JVUXIQ/W25Q16JVUXIQ.step"
+  (model "${KICAD_PONTECH_3DMOD}/PLP-001161-W25Q16JVUXIQ TR.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

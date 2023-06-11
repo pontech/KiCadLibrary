@@ -58,9 +58,9 @@
   (pad "5" thru_hole circle (at 10 0) (size 1.3716 1.3716) (drill 0.8636) (layers "*.Cu" "*.Mask") (tstamp a8321fa7-edda-41ba-8a46-57ea915affc4))
   (pad "6" thru_hole circle (at 12.500001 0) (size 1.3716 1.3716) (drill 0.8636) (layers "*.Cu" "*.Mask") (tstamp 24dbda1d-d19d-43ce-b5ea-161a38790328))
   (pad "7" thru_hole circle (at 15.000001 0) (size 1.3716 1.3716) (drill 0.8636) (layers "*.Cu" "*.Mask") (tstamp 2f884848-3181-412b-b9ce-95cdb53b7947))
-  (model "G:/Other computers/My Laptop/D/Oya/PCB/libraries/ul_B07B-XASK-1-LF-SN-/B07B-XASK-1_LF__SN_.stp"
-    (offset (xyz 0 0 0))
+  (model "${KICAD_PONTECH_3DMOD}/PLP-001156-B07B-XASK-1.STEP"
+    (offset (xyz 7.5 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz -90 0 180))
   )
 )

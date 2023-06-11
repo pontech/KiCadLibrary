@@ -41,8 +41,8 @@
   (pad "1" smd rect (at 2.05 -1.1) (size 1.05 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp db66d779-22e1-41f6-931d-aea7f5b7839b))
   (pad "2" smd rect (at -2.1 1.05) (size 1.05 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2ae7035a-69c0-4fd1-a64e-e4b75a0f2e02))
   (pad "2" smd rect (at 2.05 1.05) (size 1.05 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a170190d-4f6d-4dc7-81c1-5473e4296148))
-  (model "G:/Other computers/My Laptop/D/Oya/PCB/libraries/greencharge-kicad-library-main/greencharge-kicad-library-main/greencharge-packages3d/SKRP Button.STEP"
-    (offset (xyz -2 -1.5 0))
+  (model "${KICAD_PONTECH_3DMOD}/PLP-001166-PTS810 SJK 250 SMTR LFS--3DModel-STEP-1.STEP"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
