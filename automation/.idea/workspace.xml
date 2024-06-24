@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a33cb0f5-89ba-47f1-accb-7060d9b13951" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_pontech.kicad_sym" beforeDir="false" afterPath="$PROJECT_DIR$/../1_pontech.kicad_sym" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/jacob/pontech/kicad/KiCadLibrary/automation"
+    "last_opened_file_path": "/home/jacob/STM32CubeIDE/workspace_1.12.1/ezLCD405"
   }
 }]]></component>
   <component name="RunManager">
