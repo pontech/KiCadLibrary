@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "PLP-000288"
-		(at 0.25 6.5 0)
+		(at 0 4 0)
 		(layer "F.Fab")
 		(uuid "3ed3a350-8e3b-459b-8cbe-917a6fb33c5f")
 		(effects
@@ -68,8 +68,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -7.05 -5.4)
-		(end 7.05 -5.4)
+		(start -6.1 -5.6)
+		(end 6.1 -5.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -78,8 +78,8 @@
 		(uuid "eb5b2dd0-d6ca-41b0-8bdd-21a64fd17f3b")
 	)
 	(fp_line
-		(start -7.05 -0.6)
-		(end -7.05 -5.4)
+		(start -6.1 -0.6)
+		(end -6.1 -5.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -88,8 +88,8 @@
 		(uuid "cb447a30-5f16-45c9-a18a-336e67247962")
 	)
 	(fp_line
-		(start -7.05 7.7)
-		(end -7.05 2.9)
+		(start -6.1 5.6)
+		(end -6.1 2.9)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -128,8 +128,8 @@
 		(uuid "b6381cdb-b9b6-4578-bd1e-2f634ccc7480")
 	)
 	(fp_line
-		(start 7.05 -5.4)
-		(end 7.05 -0.6)
+		(start 6.1 -5.6)
+		(end 6.1 -0.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -138,8 +138,8 @@
 		(uuid "7bd7e75b-0e96-4cea-a8b7-53c327fc3e26")
 	)
 	(fp_line
-		(start 7.05 2.9)
-		(end 7.05 7.7)
+		(start 6.1 2.9)
+		(end 6.1 5.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -148,8 +148,8 @@
 		(uuid "0bb007ef-0732-4abb-879d-062fd41433ee")
 	)
 	(fp_line
-		(start 7.05 7.7)
-		(end -7.05 7.7)
+		(start 6.1 5.6)
+		(end -6.1 5.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -158,8 +158,8 @@
 		(uuid "2e73c2b4-9fa7-4008-95c8-2bf38df0ecf8")
 	)
 	(fp_line
-		(start -7.75 -5.6)
-		(end -7.75 7.9)
+		(start -7.75 -5.9)
+		(end -7.75 5.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -168,8 +168,8 @@
 		(uuid "52d9c6ec-7c3a-4770-9466-13376a0c9730")
 	)
 	(fp_line
-		(start -7.75 -5.6)
-		(end 7.75 -5.6)
+		(start -7.75 -5.9)
+		(end 7.75 -5.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -178,8 +178,8 @@
 		(uuid "5e12790f-6be1-4907-8a81-aa3172d4aaa7")
 	)
 	(fp_line
-		(start 7.75 7.9)
-		(end -7.75 7.9)
+		(start 7.75 5.9)
+		(end -7.75 5.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -188,8 +188,8 @@
 		(uuid "6f0953c4-3129-43f0-8b26-bca1b9dc1376")
 	)
 	(fp_line
-		(start 7.75 7.9)
-		(end 7.75 -5.6)
+		(start 7.75 5.9)
+		(end 7.75 -5.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -208,7 +208,7 @@
 		(uuid "2ec22277-f345-4a15-83f6-2ea809c97ec2")
 	)
 	(fp_line
-		(start -7 7.65)
+		(start -7 5.8)
 		(end -7 -5.35)
 		(stroke
 			(width 0.1)
@@ -229,7 +229,7 @@
 	)
 	(fp_line
 		(start 7 -4.6)
-		(end 7 7.65)
+		(end 7 5.8)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -238,8 +238,8 @@
 		(uuid "36b46d8e-cf11-4f53-90ca-06c9e97a7ad4")
 	)
 	(fp_line
-		(start 7 7.65)
-		(end -7 7.65)
+		(start 7 5.8)
+		(end -7 5.8)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -248,7 +248,7 @@
 		(uuid "b417a01f-2fe7-48ed-a211-aa497d95bed9")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0.05 4.8 0)
+		(at 0.2 -4 0)
 		(layer "F.Fab")
 		(uuid "f27e8491-2ec5-4834-858b-49d649b5a7fb")
 		(effects
