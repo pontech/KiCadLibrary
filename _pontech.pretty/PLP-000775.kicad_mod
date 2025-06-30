@@ -6,19 +6,19 @@
 	(descr "LED GREEN 2V 20mA 0603")
 	(tags "LED GREEN 0603")
 	(property "Reference" "REF**"
-		(at 0.1 1.34 0)
+		(at -2.44 0.8 0)
 		(layer "F.SilkS")
 		(uuid "6108dc0d-abb7-413e-be50-b00405a2a62f")
 		(effects
 			(font
-				(size 0.4 0.4)
+				(size 0.5 0.5)
 				(thickness 0.07)
 			)
 			(justify bottom)
 		)
 	)
 	(property "Value" "PLP-000775"
-		(at -0.1 -0.75 180)
+		(at -0.02 -0.67 180)
 		(layer "F.Fab")
 		(uuid "055e3522-ae79-40b6-8d74-0122683222fe")
 		(effects
@@ -255,8 +255,52 @@
 		(layer "F.CrtYd")
 		(uuid "a9ce64dd-3d05-4804-a0c1-ded82d3dccb9")
 	)
+	(fp_line
+		(start -0.15 0.33)
+		(end -0.15 -0.24)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "bf1f299c-d2ac-4d65-8cee-0795cc7a6c14")
+	)
+	(fp_rect
+		(start -1.92 -0.86)
+		(end 1.64 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "acd2d884-d381-4227-954c-dded2bc0a9e9")
+	)
+	(fp_rect
+		(start -0.74 -0.97)
+		(end 0.76 -0.86)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "df59ea6a-5059-47e2-b100-4498532be5bb")
+	)
+	(fp_poly
+		(pts
+			(xy 0.15 0.30625) (xy -0.15 0.055) (xy 0.15 -0.23375)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "3627fb38-2e4c-43bf-bab4-d4bf76c487f8")
+	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0.5 180)
+		(at -0.13 0.57 180)
 		(layer "F.Fab")
 		(uuid "082ab518-159f-4614-ba16-4429dcd2ac8a")
 		(effects
