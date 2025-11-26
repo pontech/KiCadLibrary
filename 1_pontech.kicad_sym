@@ -2385,7 +2385,7 @@
 			)
 		)
 		(property "Description" "DIODE SCHOTTKY 20V 1A SMA"
-			(at 0 0 0)
+			(at 0.508 -11.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21361,7 +21361,7 @@
 				)
 			)
 		)
-		(property "Value" "PLP-001221"
+		(property "Value" "PLP-001176"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21369,7 +21369,7 @@
 				)
 			)
 		)
-		(property "Footprint" "a_pontech:D_SMP_DO-220AA"
+		(property "Footprint" "a_pontech:D_SOD-123FL"
 			(at 1.27 -7.62 0)
 			(effects
 				(font
@@ -21387,7 +21387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "60PIV 450 mV @ 1.5 A, Diode, SCHOTTKY"
+		(property "Description" "20V 1A, Diode, SCHOTTKY"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21396,7 +21396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Info" "60PIV 450 mV @ 1.5 A"
+		(property "Info" "20V 1A, SCHOTTKY"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -21404,7 +21404,7 @@
 				)
 			)
 		)
-		(property "ki_keywords" "60PIV 450 mV @ 1.5 A, Diode, SCHOTTKY"
+		(property "ki_keywords" "diode"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31458,14 +31458,17 @@
 		(embedded_fonts no)
 	)
 	(symbol "PLPA-0105"
+		(pin_names
+			(offset 1.016)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "CON1"
-			(at -40.64 0 0)
+		(property "Reference" "CON"
+			(at -38.1 -1.27 0)
 			(effects
 				(font
-					(size 1.778 1.5113)
+					(size 1.4986 1.4986)
 				)
 				(justify left bottom)
 			)
@@ -31480,7 +31483,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLPA-0105"
-			(at 0 0 0)
+			(at -1.27 -1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31497,7 +31500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PONTECH KARD Connector"
 			(at 0 0 0)
 			(effects
 				(font
