@@ -32253,7 +32253,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "PLPA-0105-ALT"
+	(symbol "PLPA-0105-SMALL"
 		(pin_names
 			(offset 1.016)
 		)
@@ -32269,7 +32269,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PLPA-0105-ALT"
+		(property "Value" "PLPA-0105-SMALL"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32305,7 +32305,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "PLPA-0105-ALT_1_0"
+		(symbol "PLPA-0105-SMALL_1_0"
 			(polyline
 				(pts
 					(xy -48.26 7.62) (xy 10.16 7.62)
