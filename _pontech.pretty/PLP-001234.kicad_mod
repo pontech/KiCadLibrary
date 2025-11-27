@@ -1,0 +1,97 @@
+(footprint "PLP-001234"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2 -1.5 0)
+		(layer "F.SilkS")
+		(uuid "d4ecb9db-4b20-4409-9379-9d4a326b37d1")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.07)
+			)
+		)
+	)
+	(property "Value" "KNOB"
+		(at 0 1 0)
+		(layer "F.Fab")
+		(uuid "540a817a-5498-48c7-bb24-d1d1c0f43bf8")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fee5e23-7d64-444e-99c8-450a0c6dc34e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "938a6655-2906-42d2-8e4c-1d323a9d803c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -6.5)
+		(end -0.000001 -0.000001)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "318068dd-9b05-4c5b-9dca-fc0e6fe5302c")
+	)
+	(fp_arc
+		(start -6.5 0)
+		(mid 6.499998 -0.000002)
+		(end -6.5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eaaa09cd-1c9f-471d-8903-217322dec48e")
+	)
+	(fp_arc
+		(start -6 0)
+		(mid 6 0)
+		(end -6 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "98025a35-bf9a-4ef4-8759-cf301fe7fa6e")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_PONTECH_3DMOD}/PLP-001234-CL1708xxxx206mm-0D.stp"
+		(offset
+			(xyz -11.25 -3.75 23)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

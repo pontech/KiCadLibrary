@@ -71,6 +71,46 @@
 		(uuid "e165162e-44e3-4dc7-8b22-53605514ecab")
 	)
 	(fp_line
+		(start 4.999999 -16.500001)
+		(end 4.5 -16.500001)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6b11fd8c-0513-4913-889e-6fbb53d5ab6b")
+	)
+	(fp_line
+		(start 5 -16.5)
+		(end 5 -17)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5f1e6185-dddc-4b3a-bd51-354f9cf4c4db")
+	)
+	(fp_line
+		(start 5 -16.5)
+		(end 5 -16)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "96c07227-1391-4c32-8a9c-38377dad1aa8")
+	)
+	(fp_line
+		(start 5 -16.5)
+		(end 5.5 -16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d2f77da8-7181-4d71-a421-2b89f4136c83")
+	)
+	(fp_line
 		(start 12.5 -5)
 		(end 12.5 -12.5)
 		(stroke
@@ -341,6 +381,18 @@
 		)
 		(rotate
 			(xyz -0 90 -0)
+		)
+	)
+	(model "${KICAD_PONTECH_3DMOD}/PLP-001234-CL1708xxxx206mm-0D.stp"
+		(hide yes)
+		(offset
+			(xyz -6.25 12.5 23)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
 		)
 	)
 )
