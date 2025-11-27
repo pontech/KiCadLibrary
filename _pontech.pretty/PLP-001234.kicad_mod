@@ -49,7 +49,7 @@
 			)
 		)
 	)
-	(attr through_hole)
+	(attr through_hole exclude_from_pos_files)
 	(fp_line
 		(start 0 -6.5)
 		(end -0.000001 -0.000001)

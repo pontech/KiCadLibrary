@@ -1,4 +1,4 @@
-(footprint "PLP-001236"
+(footprint "PLP-001237"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -322,9 +322,9 @@
 		(uuid "d6300152-508d-4e25-954e-7f4019e56a41")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_PONTECH_3DMOD}/PLP-001236-PRS11R-415F-Sxxxx.stp"
+	(model "${KICAD_PONTECH_3DMOD}/PLP-001237-PRS11R-415F-Nxxxx.stp"
 		(offset
-			(xyz 0 7.5 6.8)
+			(xyz 0 7.5 5.6)
 		)
 		(scale
 			(xyz 1 1 1)
