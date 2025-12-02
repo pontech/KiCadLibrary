@@ -1,0 +1,220 @@
+(footprint "PLP-001240"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "3.2\" Diagonal TFT LCD Display")
+	(tags "3.2\" Diagonal TFT LCD Display")
+	(property "Reference" "REF**"
+		(at 22 38.35 0)
+		(layer "F.SilkS")
+		(uuid "3d95aeb3-a4ea-4576-8f2a-8bcfd7d99771")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PLP-001240"
+		(at -3 38.35 0)
+		(layer "F.Fab")
+		(uuid "423d439c-4f51-4030-b278-d14279b420e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93d935d4-9bdb-4a04-ab00-4daf8e606b89")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42c98f4e-96b3-4d28-8e3f-27adf194d77c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -25.54 -36.25)
+		(end -25.54 40.22)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "70874937-5eb2-41f9-814e-87af1829d5e9")
+	)
+	(fp_line
+		(start -25.54 -36.25)
+		(end 24.9 -36.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9a0c2395-237c-4f04-bb55-7f12c25c0210")
+	)
+	(fp_line
+		(start -25.54 40.25)
+		(end 24.9 40.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9a39ec4-8efe-4f10-8263-4d886c8812f1")
+	)
+	(fp_line
+		(start 24.9 -36.25)
+		(end 24.9 40.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8f045d94-c8f1-4c6c-bd19-2fdda9acef70")
+	)
+	(fp_line
+		(start -25.64 -36.35)
+		(end -25.64 40.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6a24fc6c-3b71-479f-9b32-2e0cddb7c9b4")
+	)
+	(fp_line
+		(start -25.64 -36.35)
+		(end 25 -36.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "249b232f-4971-4768-b677-2f54726bb9e6")
+	)
+	(fp_line
+		(start -25.64 40.35)
+		(end 25 40.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c6d22b7f-8d03-4640-bb86-ca2e314f9e98")
+	)
+	(fp_line
+		(start 25 -36.35)
+		(end 25 40.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4fa95ea4-9d63-42ee-b565-0626660dabfd")
+	)
+	(fp_line
+		(start -25.39 -36.05)
+		(end 24.75 -36.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a9ea8dfd-6bd5-4dfa-97db-3948d6aa2bba")
+	)
+	(fp_line
+		(start -25.39 40.1)
+		(end -25.39 -36.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "338335cf-3136-44f7-a78e-7c3470c96c24")
+	)
+	(fp_line
+		(start -25 -34.65)
+		(end -24 -35.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97054605-117f-4a8b-9db2-4b0bf8102fe0")
+	)
+	(fp_line
+		(start 24.75 -36.05)
+		(end 24.75 40.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "713e3050-3634-424a-aab0-b84f776ee028")
+	)
+	(fp_line
+		(start 24.75 40.1)
+		(end -25.39 40.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "42a62325-9fe0-43d4-8af2-50cc247921a5")
+	)
+	(fp_text user "+"
+		(at 0 -0.23 0)
+		(layer "F.SilkS")
+		(uuid "fd287c35-5d35-4c6b-8952-dfac83345c0e")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -3.5 36.35 180)
+		(layer "B.Fab")
+		(uuid "c1545ab8-ba36-4abf-aad5-bb6c22df87de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KICAD_PONTECH_3DMOD}/PLP-001240-TD-T320T2G2399.step"
+		(offset
+			(xyz 0 0 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
