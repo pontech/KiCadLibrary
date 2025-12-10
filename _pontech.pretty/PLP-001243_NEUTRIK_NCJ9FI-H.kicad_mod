@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -10.325 -28.385 0)
+		(at -11.95 -25.1 0)
 		(layer "F.SilkS")
 		(uuid "7d293d33-e737-4693-b9bd-28c7cc9425cf")
 		(effects
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "NEUTRIK_NCJ6FI-H"
-		(at -3.34 -26.885 0)
+		(at -1.23 -22.55 0)
 		(layer "F.Fab")
 		(uuid "97dc24ca-9c7e-4340-95a7-b6ab031586a6")
 		(effects
@@ -71,7 +71,27 @@
 		(uuid "25b8fd6c-b6d2-4297-ac54-92148bd77dcd")
 	)
 	(fp_line
-		(start -7.98 -24)
+		(start -8.231671 -24)
+		(end -3.96 -24)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9df4814e-ed3d-468b-9079-8a9683cb5417")
+	)
+	(fp_line
+		(start -2.232819 -24)
+		(end 2.038852 -24)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7ec96db0-5781-49a8-ab02-81007d97cc69")
+	)
+	(fp_line
+		(start 3.851692 -24)
 		(end 13.5 -24)
 		(stroke
 			(width 0.127)

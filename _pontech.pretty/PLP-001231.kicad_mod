@@ -6,18 +6,18 @@
 	(descr "Embedded platform for audio applications. 96kHz / 24-bit audio hardware. 64MB of SDRAM for up to 10 minute long audio. ARM Cortex-M7 MCU, running at 480MHz. 31 total GPIO pins with configurable functionality. 12-bit Digital to Analog Converters (x2). SD card interfaces. PWM outputs. Serial Protocols for connecting external sensors and devices (SPI, UART, I2S, I2C). Dedicated VIN pin for power. Micro USB port, and additional USB pins for full OTG-support as host and device. https://static1.squarespace.com/static/58d03fdc1b10e3bf442567b8/t/6227e6236f02fb68d1577146/1646781988478/Daisy_Seed_datasheet_v1.0.3.pdf")
 	(tags "Electrosmith Daisy Seed Microcontroller Module ARM Cortex-M7 Audio Codec")
 	(property "Reference" "REF**"
-		(at 7.62 -3.6 0)
+		(at 0.32 -2.38 0)
 		(layer "F.SilkS")
 		(uuid "3bfd43c6-20a7-4930-8340-2cf59d16d767")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.7 0.7)
+				(thickness 0.07)
 			)
 		)
 	)
 	(property "Value" "PLP-001231"
-		(at 7.62 51 0)
+		(at 7.74 24.2 0)
 		(layer "F.Fab")
 		(uuid "1d02fbc6-cf60-4db4-bc8e-1aa3a60991d6")
 		(effects

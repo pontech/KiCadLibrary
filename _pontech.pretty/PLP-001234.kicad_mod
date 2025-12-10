@@ -3,10 +3,10 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
-		(at -2 -1.5 0)
+	(property "Reference" "H7"
+		(at 0 1 0)
 		(layer "F.SilkS")
-		(uuid "d4ecb9db-4b20-4409-9379-9d4a326b37d1")
+		(uuid "ed7ec611-8e4f-4a9b-bcb6-673104287dd8")
 		(effects
 			(font
 				(size 0.7 0.7)
@@ -14,10 +14,10 @@
 			)
 		)
 	)
-	(property "Value" "KNOB"
-		(at 0 1 0)
+	(property "Value" "PLP-001234"
+		(at 0 2 0)
 		(layer "F.Fab")
-		(uuid "540a817a-5498-48c7-bb24-d1d1c0f43bf8")
+		(uuid "15474035-e742-48cd-8870-d129a07e57f1")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8fee5e23-7d64-444e-99c8-450a0c6dc34e")
+		(uuid "d2c93576-353c-4a06-b30b-4b716df42fb6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37,11 +37,11 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "KNOB K87MBR BLACK 6MM D ORANGE"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "938a6655-2906-42d2-8e4c-1d323a9d803c")
+		(uuid "9f098735-5429-433b-a417-e5221926c136")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,32 +55,32 @@
 		(end -0.000001 -0.000001)
 		(stroke
 			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "318068dd-9b05-4c5b-9dca-fc0e6fe5302c")
-	)
-	(fp_arc
-		(start -6.5 0)
-		(mid 6.499998 -0.000002)
-		(end -6.5 0)
-		(stroke
-			(width 0.127)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "eaaa09cd-1c9f-471d-8903-217322dec48e")
+		(layer "F.Fab")
+		(uuid "1fff0cee-1a37-4379-84c2-fcda212704ec")
 	)
 	(fp_arc
-		(start -6 0)
-		(mid 6 0)
-		(end -6 0)
+		(start -6.000001 -0.000001)
+		(mid 5.999999 -0.000001)
+		(end -6.000001 -0.000001)
 		(stroke
 			(width 0.127)
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "98025a35-bf9a-4ef4-8759-cf301fe7fa6e")
+		(uuid "1903ce0c-13b7-4d08-af58-3de4e2d51bd6")
+	)
+	(fp_circle
+		(center -0.000001 -0.000001)
+		(end 5.73 -3.08)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "43c3d3b9-b0ab-4654-98c4-871381ef0deb")
 	)
 	(embedded_fonts no)
 	(model "${KICAD_PONTECH_3DMOD}/PLP-001234-CL1708xxxx206mm-0D.stp"
