@@ -92,6 +92,17 @@
 		(layer "F.SilkS")
 		(uuid "8f045d94-c8f1-4c6c-bd19-2fdda9acef70")
 	)
+	(fp_rect
+		(start 23.12 0)
+		(end 27.12 15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "404aa6cf-6988-4fb1-b519-81580a2db816")
+	)
 	(fp_line
 		(start -25.64 -36.35)
 		(end -25.64 40.35)
@@ -207,6 +218,17 @@
 	)
 	(embedded_fonts no)
 	(model "${KICAD_PONTECH_3DMOD}/PLP-001240-TD-T320T2G2399.step"
+		(offset
+			(xyz 0 0 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD_PONTECH_3DMOD}/TD-T320T2G2399-BentFlex.step"
 		(offset
 			(xyz 0 0 2.5)
 		)
