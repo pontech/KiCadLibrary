@@ -33230,7 +33230,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:SO-8"
-			(at 0 5.08 0)
+			(at -0.508 -18.542 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33247,8 +33247,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "IC TRANSCEIVER HALF 1/1 8SOIC"
+			(at 1.778 -16.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33262,6 +33262,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ki_keywords" "IC TRANSCEIVER HALF 1/1 8SOIC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(symbol "PLP-001222_0_1"
@@ -33451,7 +33460,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001223"
-			(at 1.27 -28.448 0)
+			(at -1.27 -28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33469,52 +33478,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at -0.254 -28.194 0)
+		(property "Description" "36V DC MOTOR DRIVER CURRENT SENS"
+			(at 6.096 -26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "2"
-			(at -0.254 -28.194 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at -0.254 -28.194 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.8mm"
-			(at -0.254 -28.194 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Analog Devices"
-			(at -0.254 -28.194 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -33525,6 +33494,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ki_keywords" "36V DC MOTOR DRIVER CURRENT SENS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(symbol "PLP-001223_0_0"
@@ -34366,7 +34344,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
-			(at -5.58 7.62 0)
+			(at -5.334 8.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34384,7 +34362,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001227"
-			(at 1.016 -14.986 0)
+			(at 6.604 -16.764 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34402,8 +34380,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 1.016 -14.986 0)
+		(property "Description" "CONN HEADER VERT 5POS 2.54MM"
+			(at 11.684 -13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34411,33 +34389,22 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "E"
-			(at 1.016 -14.986 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "SAMTEC"
-			(at 1.016 -14.986 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Info" "IPL1-105-01-X-S-K"
+		(property "Info" "CONN HEADER VERT 5POS 2.54MM"
 			(at -5.08 -11.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ki_keywords" "CONN HEADER VERT 5POS 2.54MM"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(symbol "PLP-001227_0_0"
@@ -34571,7 +34538,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001228"
-			(at 2.286 -13.208 0)
+			(at 6.35 -14.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34589,8 +34556,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "CONN HEADER VERT 3POS 2.54MM"
+			(at 11.684 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34598,53 +34565,22 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "E"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 2.286 -13.208 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "8.43 mm"
-			(at 2.286 -13.208 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samtec"
-			(at 2.286 -13.208 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Info" "IPL1-103-01-L-S-K"
+		(property "Info" "CONN HEADER VERT 3POS 2.54MM"
 			(at -5.08 -9.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ki_keywords" "CONN HEADER VERT 3POS 2.54MM"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(symbol "PLP-001228_0_0"
@@ -34730,7 +34666,7 @@
 			)
 		)
 		(property "Value" "PLP-001231"
-			(at 33.02 34.29 0)
+			(at 22.86 -36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34739,7 +34675,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001231"
-			(at 19.05 -35.56 0)
+			(at 21.59 -43.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34747,7 +34683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static1.squarespace.com/static/58d03fdc1b10e3bf442567b8/t/6227e6236f02fb68d1577146/1646781988478/Daisy_Seed_datasheet_v1.0.3.pdf"
+		(property "Datasheet" ""
 			(at 77.47 -38.1 0)
 			(effects
 				(font
@@ -34756,13 +34692,21 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Daisy is an embedded platform for music."
-			(at 0 0 0)
+		(property "Description" "Daisy Seed Unsoldered 65MB"
+			(at 24.384 -41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Info" "Daisy Seed Unsoldered 65MB"
+			(at 24.384 -39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "ki_keywords" "Electrosmith Daisy Seed Microcontroller Module ARM Cortex-M7"
@@ -35825,7 +35769,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001232_NEUTRIK_NCJ6FI-H"
-			(at 0 0 0)
+			(at 12.954 -20.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35843,8 +35787,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "1/4\" Headphone Jack TRS"
+			(at 5.08 -17.272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35852,123 +35796,20 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Neutrik"
-			(at 0 0 0)
+		(property "Info" "1/4\" Headphone Jack TRS"
+			(at 5.08 -14.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "30.00mm"
+		(property "ki_keywords" "6.35mm (0.250\", 1/4\") - Headphone Phone Jack, Dual Stereo (3 Conductor, TRS) Connector Kinked Pin, Solder"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/NCJ6FI-H/Neutrik/view-part/?ref=eda"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "07.11.03"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/NCJ6FI-H/Neutrik/view-part/?ref=snap"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "NCJ6FI-H"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "3 pole XLR female receptacle with 1/4 stereo jack without switching contact, horizontal PCB mount"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Neutrik"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -36530,7 +36371,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
-			(at -5.08 5.08 0)
+			(at -5.334 2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36539,7 +36380,7 @@
 			)
 		)
 		(property "Value" "PLP-001233"
-			(at -5.08 2.54 0)
+			(at 2.54 -3.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36548,7 +36389,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001233"
-			(at 0 0 0)
+			(at 13.97 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36566,8 +36407,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "POT 10K OHM 1/8W LINEAR"
+			(at 16.002 -6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36575,43 +36416,20 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "1.0"
-			(at 0 0 0)
+		(property "Info" "POT 10K OHM 1/8W LINEAR"
+			(at 16.002 -4.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
 			)
 		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "ki_keywords" "POT 10K OHM 1/8W CARBON LINEAR"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "CUI Devices"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -36944,7 +36762,7 @@
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001235"
-			(at 1.016 -19.05 0)
+			(at 4.064 -22.606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36962,8 +36780,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "QUAD ENCODER MECH VERT PC PIN"
+			(at 9.398 -18.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36971,23 +36789,22 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Bourns"
-			(at 0.254 -4.318 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "INFO" "QUADRATURE"
+		(property "Info" "QUAD ENCODER MECH VERT PC PIN"
 			(at -7.62 -17.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+			)
+		)
+		(property "ki_keywords" "QUAD ENCODER MECH VERT PC PIN"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(symbol "PLP-001235_0_0"
@@ -37836,7 +37653,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "a_pontech:PLP-001241-TFT_FPC_T320"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37845,7 +37662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -37854,8 +37671,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\"Generic connector, single row, 01x41, script generated\""
-			(at 0 0 0)
+		(property "Description" "CONN FPC 41POS 0.3MM R/A"
+			(at 8.382 -57.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37863,15 +37680,15 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
-			(at 0 0 0)
+		(property "Info" "CONN FPC 41POS 0.3MM R/A"
+			(at 8.128 -55.372 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "ki_keywords" "connector"
+		(property "ki_keywords" "CONN FPC 41POS 0.3MM R/A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41426,7 +41243,7 @@
 		(symbol "PLP-001250_0_0"
 			(rectangle
 				(start -12.7 17.78)
-				(end 12.7 -17.78)
+				(end 1.27 -17.78)
 				(stroke
 					(width 0.41)
 					(type default)
@@ -41562,7 +41379,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 15.24 180)
+				(at 6.35 15.24 180)
 				(length 5.08)
 				(name "SW"
 					(effects
@@ -41580,7 +41397,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 12.7 180)
+				(at 6.35 12.7 180)
 				(length 5.08)
 				(name "VREF"
 					(effects
@@ -41598,7 +41415,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -10.16 180)
+				(at 6.35 -10.16 180)
 				(length 5.08)
 				(name "PS_GND"
 					(effects
@@ -41616,7 +41433,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -12.7 180)
+				(at 6.35 -12.7 180)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -42003,7 +41820,7 @@
 			)
 			(polyline
 				(pts
-					(xy 7.62 -25.4) (xy 53.34 -25.4)
+					(xy 7.62 -25.4) (xy 33.02 -25.4)
 				)
 				(stroke
 					(width 0.127)
@@ -42015,7 +41832,7 @@
 			)
 			(polyline
 				(pts
-					(xy 53.34 5.08) (xy 7.62 5.08)
+					(xy 33.02 5.08) (xy 7.62 5.08)
 				)
 				(stroke
 					(width 0.127)
@@ -42027,7 +41844,7 @@
 			)
 			(polyline
 				(pts
-					(xy 53.34 -25.4) (xy 53.34 5.08)
+					(xy 33.02 -25.4) (xy 33.02 5.08)
 				)
 				(stroke
 					(width 0.127)
@@ -42182,7 +41999,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 60.96 0 180)
+				(at 40.64 0 180)
 				(length 7.62)
 				(name "EP"
 					(effects
@@ -42200,7 +42017,7 @@
 				)
 			)
 			(pin power_out line
-				(at 60.96 -2.54 180)
+				(at 40.64 -2.54 180)
 				(length 7.62)
 				(name "PGND"
 					(effects
@@ -42218,7 +42035,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 60.96 -5.08 180)
+				(at 40.64 -5.08 180)
 				(length 7.62)
 				(name "NC"
 					(effects
@@ -42236,7 +42053,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 60.96 -7.62 180)
+				(at 40.64 -7.62 180)
 				(length 7.62)
 				(name "SW"
 					(effects
@@ -42254,7 +42071,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 60.96 -10.16 180)
+				(at 40.64 -10.16 180)
 				(length 7.62)
 				(name "SW"
 					(effects
@@ -42272,7 +42089,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 60.96 -12.7 180)
+				(at 40.64 -12.7 180)
 				(length 7.62)
 				(name "SW"
 					(effects
@@ -42290,7 +42107,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 60.96 -15.24 180)
+				(at 40.64 -15.24 180)
 				(length 7.62)
 				(name "MODE"
 					(effects
@@ -42308,7 +42125,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 60.96 -17.78 180)
+				(at 40.64 -17.78 180)
 				(length 7.62)
 				(name "SS"
 					(effects
@@ -42326,7 +42143,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 60.96 -20.32 180)
+				(at 40.64 -20.32 180)
 				(length 7.62)
 				(name "FB"
 					(effects
