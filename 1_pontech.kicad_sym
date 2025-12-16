@@ -41644,7 +41644,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 53.34 10.16 0)
+			(at 8.382 7.366 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -41652,15 +41652,15 @@
 			)
 		)
 		(property "Value" "PLP-001251"
-			(at 53.34 7.62 0)
+			(at 15.494 -17.78 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "SO-8_AZ3406-M_DIO"
-			(at 0 0 0)
+		(property "Footprint" "a_pontech:PLP-001251"
+			(at 19.304 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41680,7 +41680,7 @@
 			)
 		)
 		(property "Description" "IC REG BUCK BOOST ADJ 1.5A 8SOIC"
-			(at 0 0 0)
+			(at 25.908 -22.098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41689,12 +41689,11 @@
 			)
 		)
 		(property "Info" "IC REG BUCK BOOST ADJ 1.5A 8SOIC"
-			(at 0 0 0)
+			(at 25.908 -20.066 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "ki_keywords" "IC REG BUCK BOOST ADJ 1.5A 8SOIC"
@@ -41730,7 +41729,7 @@
 			)
 			(polyline
 				(pts
-					(xy 7.62 -15.24) (xy 99.06 -15.24)
+					(xy 7.62 -15.24) (xy 50.8 -15.24)
 				)
 				(stroke
 					(width 0.127)
@@ -41742,7 +41741,7 @@
 			)
 			(polyline
 				(pts
-					(xy 99.06 5.08) (xy 7.62 5.08)
+					(xy 50.8 5.08) (xy 7.62 5.08)
 				)
 				(stroke
 					(width 0.127)
@@ -41754,7 +41753,7 @@
 			)
 			(polyline
 				(pts
-					(xy 99.06 -15.24) (xy 99.06 5.08)
+					(xy 50.8 -15.24) (xy 50.8 5.08)
 				)
 				(stroke
 					(width 0.127)
@@ -41855,7 +41854,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 106.68 -5.08 180)
+				(at 58.42 -5.08 180)
 				(length 7.62)
 				(name "DRIVERCOLLECTOR"
 					(effects
@@ -41873,7 +41872,7 @@
 				)
 			)
 			(pin input line
-				(at 106.68 -7.62 180)
+				(at 58.42 -7.62 180)
 				(length 7.62)
 				(name "IPKSENSE"
 					(effects
@@ -41891,7 +41890,7 @@
 				)
 			)
 			(pin power_in line
-				(at 106.68 -10.16 180)
+				(at 58.42 -10.16 180)
 				(length 7.62)
 				(name "VCC"
 					(effects
