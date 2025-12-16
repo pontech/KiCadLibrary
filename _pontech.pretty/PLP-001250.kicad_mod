@@ -16,13 +16,13 @@
 		)
 	)
 	(property "Value" "PLP-001250"
-		(at 0.5 2.5 0)
+		(at 0.97 1.82 0)
 		(layer "F.Fab")
 		(uuid "19049591-d707-4c6f-9f69-80a604c92a9f")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.05)
+				(size 0.2 0.2)
+				(thickness 0.02)
 			)
 		)
 	)
