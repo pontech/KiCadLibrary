@@ -44317,50 +44317,52 @@
 		(embedded_fonts no)
 	)
 	(symbol "PLP-001256"
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254)
+			(offset 1.016)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "L"
-			(at 6.985 5.08 0)
+			(at -1.27 0 90)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
 			)
 		)
 		(property "Value" "PLP-001256"
-			(at 6.985 -2.54 0)
+			(at 1.905 0 90)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
 			)
 		)
 		(property "Footprint" "a_pontech:PLP-001256"
-			(at 7.366 -8.89 0)
+			(at 6.35 -1.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
 				)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 7.112 -5.08 0)
+		(property "Datasheet" "~"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
 				)
 				(hide yes)
 			)
 		)
 		(property "Description" "FIXED IND 33UH 1.5A 20%"
-			(at 7.366 -6.858 0)
+			(at 8.636 -0.762 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44368,8 +44370,8 @@
 				(hide yes)
 			)
 		)
-		(property "Info" "FIXED IND 33UH 1.5A 20% "
-			(at 7.874 -4.572 0)
+		(property "Info" "FIXED IND 33UH 1.5A 20%"
+			(at 3.81 -1.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44385,7 +44387,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "IND_SDEI054T-330MS_CYN"
+		(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44394,13 +44396,13 @@
 				(hide yes)
 			)
 		)
-		(symbol "PLP-001256_1_1"
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 2.54 1.27)
-				)
+		(symbol "PLP-001256_0_1"
+			(arc
+				(start 0 2.54)
+				(mid 0.6323 1.905)
+				(end 0 1.27)
 				(stroke
-					(width 0.2032)
+					(width 0)
 					(type default)
 				)
 				(fill
@@ -44408,23 +44410,11 @@
 				)
 			)
 			(arc
-				(start 2.54 1.27)
-				(mid 3.81 2.5344)
-				(end 5.08 1.27)
+				(start 0 1.27)
+				(mid 0.6323 0.635)
+				(end 0 0)
 				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 0) (xy 5.08 1.27)
-				)
-				(stroke
-					(width 0.2032)
+					(width 0)
 					(type default)
 				)
 				(fill
@@ -44432,23 +44422,11 @@
 				)
 			)
 			(arc
-				(start 5.08 1.27)
-				(mid 6.35 2.5344)
-				(end 7.62 1.27)
+				(start 0 0)
+				(mid 0.6323 -0.635)
+				(end 0 -1.27)
 				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 0) (xy 7.62 1.27)
-				)
-				(stroke
-					(width 0.2032)
+					(width 0)
 					(type default)
 				)
 				(fill
@@ -44456,202 +44434,22 @@
 				)
 			)
 			(arc
-				(start 7.62 1.27)
-				(mid 8.89 2.5344)
-				(end 10.16 1.27)
+				(start 0 -1.27)
+				(mid 0.6323 -1.905)
+				(end 0 -2.54)
 				(stroke
-					(width 0.2032)
+					(width 0)
 					(type default)
 				)
 				(fill
 					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 10.16 0) (xy 10.16 1.27)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 10.16 1.27)
-				(mid 11.43 2.5344)
-				(end 12.7 1.27)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 12.7 0) (xy 12.7 1.27)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin unspecified line
-				(at 0 0 0)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 15.24 0 180)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
 				)
 			)
 		)
-		(symbol "PLP-001256_1_2"
-			(arc
-				(start -1.27 10.16)
-				(mid -2.5344 11.43)
-				(end -1.27 12.7)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -1.27 7.62)
-				(mid -2.5344 8.89)
-				(end -1.27 10.16)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -1.27 5.08)
-				(mid -2.5344 6.35)
-				(end -1.27 7.62)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -1.27 2.54)
-				(mid -2.5344 3.81)
-				(end -1.27 5.08)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 12.7) (xy -1.27 12.7)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 10.16) (xy -1.27 10.16)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 7.62) (xy -1.27 7.62)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 5.08) (xy -1.27 5.08)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 2.54) (xy -1.27 2.54)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin unspecified line
-				(at 0 15.24 270)
-				(length 2.54)
+		(symbol "PLP-001256_1_1"
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.27)
 				(name "1"
 					(effects
 						(font
@@ -44667,9 +44465,9 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 0 0 90)
-				(length 2.54)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.27)
 				(name "2"
 					(effects
 						(font
