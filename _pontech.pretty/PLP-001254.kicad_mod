@@ -1849,7 +1849,7 @@
 		(uuid "c10cde7a-4577-42cb-b256-a82d1dac2e40")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_PONTECH}/Raw/PLP-001254_MAX14662ETI_T/PLP-001254_21-0139I_T2844-1C_MXM.step"
+	(model "${KICAD_PONTECH}/3dshapes/PLP-001254_21-0139I_T2844-1C_MXM.step"
 		(offset
 			(xyz 0 0 0)
 		)

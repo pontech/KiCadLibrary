@@ -342,7 +342,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KICAD_PONTECH}/Raw/PLP-001256_SDEI054T_330MS/PLP-001256_SDEI054T_330MS.step"
+	(model "${KICAD_PONTECH}/3dshapes/PLP-001256_SDEI054T_330MS.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -350,7 +350,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz 0 0 0)
 		)
 	)
 )
