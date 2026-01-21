@@ -5476,7 +5476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "a_pontech:CP_Elec_6.3x5.8"
+		(property "Footprint" "a_pontech:CP_Elec_8x10"
 			(at 3.048 -14.478 0)
 			(effects
 				(font
