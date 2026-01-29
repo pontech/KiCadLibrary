@@ -42797,8 +42797,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC REG BUCK BOOST ADJ 1.5A 8SOIC"
-			(at 25.908 -22.098 0)
+		(property "Description" "IC REG BUCK BOOST ADJ 1.5A"
+			(at 22.606 -22.098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42806,8 +42806,8 @@
 				(hide yes)
 			)
 		)
-		(property "Info" "IC REG BUCK BOOST ADJ 1.5A 8SOIC"
-			(at 25.908 -20.066 0)
+		(property "Info" "IC REG BUCK BOOST ADJ 1.5A"
+			(at 22.606 -20.066 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42835,7 +42835,7 @@
 		(symbol "PLP-001251_0_1"
 			(polyline
 				(pts
-					(xy 7.62 5.08) (xy 7.62 -15.24)
+					(xy 7.62 5.08) (xy 50.8 5.08)
 				)
 				(stroke
 					(width 0.127)
@@ -42847,7 +42847,7 @@
 			)
 			(polyline
 				(pts
-					(xy 7.62 -15.24) (xy 50.8 -15.24)
+					(xy 7.62 -15.24) (xy 7.62 5.08)
 				)
 				(stroke
 					(width 0.127)
@@ -42859,7 +42859,7 @@
 			)
 			(polyline
 				(pts
-					(xy 50.8 5.08) (xy 7.62 5.08)
+					(xy 50.8 5.08) (xy 50.8 -15.24)
 				)
 				(stroke
 					(width 0.127)
@@ -42871,7 +42871,7 @@
 			)
 			(polyline
 				(pts
-					(xy 50.8 -15.24) (xy 50.8 5.08)
+					(xy 50.8 -15.24) (xy 7.62 -15.24)
 				)
 				(stroke
 					(width 0.127)
@@ -42882,97 +42882,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 0 0)
-				(length 7.62)
-				(name "SWITCHCOLLECTOR"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 0 -2.54 0)
-				(length 7.62)
-				(name "SWITCHEMITTER"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 0 -5.08 0)
-				(length 7.62)
-				(name "TIMINGCAPACITOR"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_out line
-				(at 0 -7.62 0)
-				(length 7.62)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 0 -10.16 0)
-				(length 7.62)
-				(name "COMPARATORINVERTINGINPUT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 58.42 -5.08 180)
+				(at 0 2.54 0)
 				(length 7.62)
 				(name "DRIVERCOLLECTOR"
 					(effects
@@ -42990,7 +42900,7 @@
 				)
 			)
 			(pin input line
-				(at 58.42 -7.62 180)
+				(at 0 -2.54 0)
 				(length 7.62)
 				(name "IPKSENSE"
 					(effects
@@ -43008,7 +42918,7 @@
 				)
 			)
 			(pin power_in line
-				(at 58.42 -10.16 180)
+				(at 0 -7.62 0)
 				(length 7.62)
 				(name "VCC"
 					(effects
@@ -43018,6 +42928,96 @@
 					)
 				)
 				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 0 -12.7 0)
+				(length 7.62)
+				(name "COMPARATORINVERTINGINPUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 58.42 2.54 180)
+				(length 7.62)
+				(name "SWITCHCOLLECTOR"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 58.42 -2.54 180)
+				(length 7.62)
+				(name "SWITCHEMITTER"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 58.42 -7.62 180)
+				(length 7.62)
+				(name "TIMINGCAPACITOR"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 58.42 -12.7 180)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
